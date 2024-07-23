@@ -2,10 +2,10 @@
   "name": "contact_managament",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "index_1.js",
   
   "scripts": {
-    "start": "node back-end/index.js"
+    "start": "node Backend/index_1.js"
 },
 
   "keywords": [],
